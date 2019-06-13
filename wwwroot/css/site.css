@@ -35,3 +35,10 @@ body {
         display: none;
     }
 }
+
+.fade {
+    margin: 50px;
+    padding: 50px;
+    background-color: lightgreen;
+    opacity: 1;
+}
